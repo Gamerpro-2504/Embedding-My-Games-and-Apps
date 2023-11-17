@@ -1,0 +1,21 @@
+.line{
+    width: 60px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+body{
+    background: linear-gradient(blue,red,green,yellow);
+}
+#app h1{
+    color:wheat;
+    font-size: 40px !important;
+}
+#Game h1{
+    color: blue;
+    font-size: 40px !important;
+}
+#chatbot h1{
+    color: whitesmoke;
+    font-size: 40px !important;
+}
